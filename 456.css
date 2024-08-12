@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2024 by anonymous (http://jsbin.com/qojexiwole/1/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Website</title>
+<style id="jsbin-css">
+body {
+  background-image:url("https://img.freepik.com/free-photo/abstract-bright-green-square-pixel-tile-mosaic-wall-background-and-texture_1258-72140.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1723248000&semt=ais_hybrid");
+  background-repeat:repeat;
+}
+
+.container {
+  font-family:Georgia;
+  position:absolute;
+  left:170px;
+  top:25px;
+}
+
+img {
+  position:absolute;
+  width:500px;
+  height:300px;
+  left:30px;
+  top:30px;
+  margin:0px;
+}
+
+.footer {
+   font-size:14px;
+  position:absolute;
+  width:1100px;
+  height:60px;
+  left:240px;
+  top:604px;
+  background-color:white;
+  border-style:solid;
+  border-radius:10px;
+  border-color:darkgray;
+}
+
+.nav {
+  position:absolute;
+  width:500px;
+  left:550px;
+  top:40px;
+  font-size:10px;
+  background-color:white;
+  border-radius:10px;
+  border-style:solid;
+  border-color:darkgray;
+}
+.header {
+  position:absolute;
+  width:500px;
+  left:550px;
+  top:100px;
+  font-size:10px;
+  background-color:white;
+  border-radius:10px;
+  border-style:solid;
+  border-color:darkgray;
+}
+.image2 {
+  position:absolute;
+  background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/53/2b2t_Lavacasts.png");
+  width:480px;
+  height:285px;
+  left:1080px;
+  top:40px;
+  border-radius:10px;
+  border-style:ridge;
+  border-color:darkgray;
+}
+.info {
+  font-size:14px;
+  position:absolute;
+  width:760px;
+  left:30px;
+  top:350px;
+  background-color:white;
+  border-style:solid;
+  border-radius:10px;
+  border-color:darkgray;
+}
+.story {
+  font-size:14px;
+  position:absolute;
+  width:760px;
+  height:227px;
+  left:800px;
+  top:350px;
+  background-color:white;
+  border-style:solid;
+  border-radius:10px;
+  border-color:darkgray;
+}
+</style>
+</head>
+<body>
+  <div class="container">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2b2t_Logo_Vectorised.svg/1280px-2b2t_Logo_Vectorised.svg.png">
+      <div class = "nav">
+    <h1> <em> <center> <a href="www.reddit.com/r/2b2t/">Community</a></em>, <em><a href="en.wikipedia.org/wiki/Anarchy">Anarchy</a></em>, <em><a href="2b2t.miraheze.org/wiki/Category:Groups">Groups</a></em>, <em><a href="en.wikipedia.org/wiki/2b2t">Information</a>.</em> </center> </h1>
+      </div>
+    <div class = "header">
+      <h1>  <center> Welcome to 2b2t's official website! If you want something interesting about the server, come here to check out some info about fandom, popularity, clans and more! The server exsist for long, so there would be tons of things to look for. It doesn't have rules so you can do anything you want. The website is made by zxc_caxapok (me). I'm playing on this server for 3 years, so don't think of underestimating me. </center> </h1>
+    </div>
+    <div class = "image2">
+    </div>
+    <div class="info">
+      <h2>  <center> 2b2t (2builders2tools) is a Minecraft server founded in December 2010. 2b2t has essentially no rules and players are not permanently banned, known within Minecraft as an anarchy server. 2b2t is the oldest anarchy server in Minecraft, as well as one of the few running 2010 Minecraft servers of any variety. The server is permanently set to hard difficulty and PVP combat is enabled. It has seen over 780,000 players explore its procedurally generated map, increasing its file size to over 20 terabytes. </center> </h2>
+    </div>
+    <div class="story">
+      <h2>  <center> 2b2t.org was founded in 2010 by an owner, known online as Hausemaster. It was advertised on 4chan and Reddit. Members from different forums launched raids against each other and their work. YouTuber TheCampingRusher uploaded a YouTube video on June 1, 2016, where he played on 2b2t. This caused a conflict on the server known as "The Rusher War".</center> </h2>
+    </div>
+    <div class="footer">
+   <h2><center> Obviously it is hard to survive without loot, so if you wanna be strong enough, be more serious.
+    </div>
+</body>   
+</html>
